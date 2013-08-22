@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'twitter-bootstrap-rails', '>= 2.2.6'
   spec.add_dependency 'jquery-rails',            '>= 2.2.1'
-  spec.add_dependency 'jquery-ui-rails',         '>= 4.0.3'
+  spec.add_dependency 'jquery-ui-rails',         '>= 3.0.1'
   spec.post_install_message = "" \
   "**********************************************\n\n" \
   "One *must* run `rails generate flatuipro:install <Flat UI Pro Directory>`\n" \
